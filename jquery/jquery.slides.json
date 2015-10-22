@@ -1,0 +1,1376 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 279,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>JQuery</font>",
+          "size": 144,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 133,
+          "y": 404,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "讓 JS 來控制 HTML 吧！<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 417,
+      "y": 179
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 175,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>話說上禮拜教完 JS 惹</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 344,
+          "y": 421,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>大家還記得吧？</font>",
+          "selected": false
+        }
+      ],
+      "z": 3000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 1.58,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 537,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 242,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "今天要來做這個<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 659,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 242,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "今天要來做這個<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/4pY6KPk.png",
+          "type": "Image",
+          "x": 367,
+          "y": 277,
+          "scale": {
+            "x": 0.485,
+            "y": 0.485,
+            "width": 291,
+            "height": 291
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 659,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 242,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "今天要來做這個<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/4pY6KPk.png",
+          "type": "Image",
+          "x": 367,
+          "y": 277,
+          "scale": {
+            "x": 0.485,
+            "y": 0.485,
+            "width": 291,
+            "height": 291
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 440,
+          "y": 615,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font><a href=\"https://trello.com/\" target=\"_blank\">這是啥</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 659,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>開玩笑的</font>",
+          "size": 96,
+          "selected": false
+        }
+      ],
+      "z": -1000,
+      "impScale": 3,
+      "rotateX": -1.52,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 23
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>開玩笑的</font>",
+          "size": 96,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 310,
+          "y": 474,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "但是我們還是要來做一個簡單的 Notes<br>",
+          "selected": false
+        }
+      ],
+      "z": -1000,
+      "impScale": 3,
+      "rotateX": -1.52,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 660,
+      "y": 23
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 313,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "我們為何會需要 jQuery<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 896,
+      "y": 182
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 313,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "我們為何會需要 jQuery<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 296,
+          "y": 487,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<a href=\"https://jquery.com/\" target=\"_blank\">看一下他的自我介紹</a><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 896,
+      "y": 182
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Get started<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 255,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "加入這行<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 375.72700792777886,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "<font face=\"Lato\">&lt;script src=\"//code.jquery.com/jquery-1.11.3.min.js\"&gt;&lt;/script&gt;</font><br>",
+          "selected": false,
+          "customClasses": "code"
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 521,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">或者你可以直接使用之前 Bootstrap 的 template</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1136,
+      "y": 183
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/HVsS7lU.png",
+          "type": "Image",
+          "x": 117,
+          "y": 205,
+          "scale": {
+            "x": 1.4355716878402904,
+            "y": 1.4355716878402904,
+            "width": 791,
+            "height": 358.8929219600726
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 3000,
+      "impScale": 3,
+      "rotateX": -1.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1136,
+      "y": 93
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 346,
+          "y": 71,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">第零步：畫出板形 UI<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 184,
+          "y": 166,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 41,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=版型-(UI)\" target=\"_blank\">你已經完成了，因為直接來複製就好</a></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/75OkY4J.png",
+          "type": "Image",
+          "x": 229,
+          "y": 298,
+          "scale": {
+            "x": 0.7331606217616581,
+            "y": 0.7331606217616581,
+            "width": 566,
+            "height": 354.84974093264253
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 166,
+      "y": 377
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 386,
+          "y": 118,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">第一步：增加！</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 76,
+          "text": "<font face=\"Lato\">首先，你得先取得那個按鈕</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 174,
+          "y": 404,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 52,
+          "text": "<font face=\"Lato\">然後幫他加上一個按鍵監聽器</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/f74vsqQ.png",
+          "type": "Image",
+          "x": 221,
+          "y": 525,
+          "scale": {
+            "x": 0.8105849582172702,
+            "y": 0.8105849582172702,
+            "width": 582,
+            "height": 58.362116991643454
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 637,
+          "y": 594,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">\\ 沒錯，就是我</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 412,
+      "y": 379
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/uVoNeMd.jpg",
+          "type": "Image",
+          "x": 245,
+          "y": 221,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 314,
+          "y": 98,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">供三小！？怎麼取得按鈕</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 3000,
+      "impScale": 3,
+      "rotateX": -1.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 416,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 317,
+          "y": 132,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">還記得 CSS selector 嗎？</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 334,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\"><a href=\"http://flukeout.github.io/#\" target=\"_blank\">我找到這個來幫大家複習，來玩！</a><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 358,
+          "y": 224,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 28,
+          "text": "<font face=\"Lato\">我想應該大概是不記得了</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 312,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 50,
+          "text": "<font face=\"Lato\">玩到第七關就夠了</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 656,
+      "y": 376
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 162,
+          "y": 178,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">jQuery('&lt;query_string&gt;')&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 196,
+          "y": 392,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 79,
+          "text": "<font face=\"Lato\">來取得那個按鈕！</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 896,
+      "y": 377
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 107,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">綁上監聽器</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 129,
+          "y": 373,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 86,
+          "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/click/\" target=\"_blank\">.click(function(){ ... });</a></font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 563,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 39,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=取得按鈕，測試監聽器\" target=\"_blank\">使用開發工具 (F12) 測試一下</a></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 3000,
+      "impScale": 3,
+      "rotateX": -1.54,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 903,
+      "y": 282
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 300,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 85,
+          "text": "<font face=\"Lato\">新增的步驟</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ol><li><span style=\"font-family: Lato; line-height: normal;\">複製 template</span><br></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">把輸入的資料放上去</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">貼到網頁上</span></font></li></ol>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1140,
+      "y": 374
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 77,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 37,
+          "text": "<font face=\"Lato\">jQuery Manipulation 類以及 Traversing 類的功能：</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 185,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ol><li><span style=\"font-family: Lato; line-height: normal;\"><a href=\"http://api.jquery.com/clone/\" target=\"_blank\">.clone()</a></span><br></li><li><a href=\"http://api.jquery.com/find/\" target=\"_blank\">.find(\"&lt;anothor_query&gt;\")</a></li><li><a href=\"http://api.jquery.com/val/\" target=\"_blank\">.val()</a></li><li><a href=\"http://api.jquery.com/text/\" target=\"_blank\">.text( ... )</a></li><li><a href=\"http://api.jquery.com/appendTo/\" target=\"_blank\">.appendTo(\"&lt;query&gt;\")</a></li><li><a href=\"http://api.jquery.com/show/\" target=\"_blank\">.show()</a></li></ol>",
+          "selected": false
+        }
+      ],
+      "z": 3000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.57,
+      "rotateZ": 1.57,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 1285,
+      "y": 373
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 145,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">在 html 上執行 JS:</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 40,
+          "text": "<font face=\"Lato\">&lt;script type=\"text/javascript\"&gt; ... &lt;/script&gt;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1159,
+      "y": 571
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 145,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">在 html 上執行 JS:</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 40,
+          "text": "<font face=\"Lato\">&lt;script type=\"text/javascript\"&gt; ... &lt;/script&gt;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 279,
+          "y": 388,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">別忘了等&nbsp;</span></div><font face=\"Lato\"><div style=\"text-align: center;\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=document-ready\" target=\"_blank\">document &nbsp;ready</a></div><div style=\"text-align: center;\"><span style=\"font-family: Lato, sans-serif;\">再執行程式</span></div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 1159,
+      "y": 571
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 64,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">這樣一來，新增功能就完成了！</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 404,
+          "y": 674,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=新增！\" target=\"_blank\">自己寫一下，拜偷～</a></font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/sZuI2HU.png",
+          "type": "Image",
+          "x": 59,
+          "y": 145,
+          "scale": {
+            "x": 0.635343618513324,
+            "y": 0.635343618513324,
+            "width": 906,
+            "height": 507.0042075736325
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 894,
+      "y": 573
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 320,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">接下來是修改</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 84,
+          "y": 231,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ol><li><span style=\"font-family: Lato; line-height: normal;\">被新增的時候加入監聽器</span><br></li><li><span style=\"font-family: Lato; line-height: normal;\">有點懶，先用 prompt();</span></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">從按鈕出發，找到對應的元件</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">修改它 like a boss</span></font></li></ol>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 657,
+      "y": 567
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">把自己轉成 jQuery 物件:<br>jQuery(this)</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 500,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">利用<br>.find( ... ) 往下找<br>.parents() 往上找</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 252,
+          "y": 666,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 39,
+          "text": "<font face=\"Lato\">因為回傳的都是 jQuery 物件，所以可以串</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/mmo2sNu.png",
+          "type": "Image",
+          "x": 30,
+          "y": 424,
+          "scale": {
+            "x": 1.4088888888888889,
+            "y": 1.4088888888888889,
+            "width": 951,
+            "height": 197.24444444444444
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 4000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 3.14,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 658,
+      "y": 566
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 117,
+          "y": 214,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 79,
+          "text": "<font face=\"Lato\">這樣一來修改也可以了</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 426,
+          "y": 362,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 20,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=修改！\" target=\"_blank\">雖然用很爛的方法...</a></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 89,
+          "y": 444,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 47,
+          "text": "<font face=\"Lato\">再放那張狗圖大家會覺得煩，我就不放了</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 315,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 99,
+          "text": "<font face=\"Lato\">最後，刪除呢？</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 225,
+          "y": 206,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">Just as you expected</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 261,
+          "y": 312,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 121,
+          "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/remove/\" target=\"_blank\">.remove()</a></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 426,
+          "y": 491,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=刪除！\" target=\"_blank\">Maybe XDD</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 52,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">今天只介紹了 jQuery 很小部分的功能</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 182,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 31,
+          "text": "<font face=\"Lato\">這裡有一批免費的資料可以查啊</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/vLcVBB8.png?1",
+          "type": "Image",
+          "x": 90,
+          "y": 418,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 667,
+          "y": 692,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<font face=\"Lato\">\\ 別忘了還有我</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 231,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 87,
+          "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/\" target=\"_blank\">jQuery 官網</a></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<font face=\"Lato\">而且...</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 225,
+        "y": 206,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font face=\"Lato\">Just as you expected</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 261,
+        "y": 312,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 121,
+        "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/remove/\" target=\"_blank\">.remove()</a></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 426,
+        "y": 491,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 32,
+        "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=刪除！\" target=\"_blank\">Maybe XDD</a></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 26,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "presentation-unnamed",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/\n\n.strut-surface .code {\n  font-family:Menlo, Monaco, Consolas, 'Courier New', monospace !important;\n}\n",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 725.5,
+  "overviewY": 298
+}
