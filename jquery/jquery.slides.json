@@ -37,8 +37,9 @@
       "index": 0,
       "selected": false,
       "active": false,
-      "x": 417,
-      "y": 179
+      "x": 421,
+      "y": 179,
+      "markdown": ""
     },
     {
       "components": [
@@ -697,6 +698,19 @@
           "size": 79,
           "text": "<font face=\"Lato\">來取得那個按鈕！</font>",
           "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 319,
+          "y": 589,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\">使用開發工具 (F12) 試試</font><br>",
+          "selected": false
         }
       ],
       "z": 0,
@@ -740,7 +754,7 @@
         },
         {
           "TextBox": {},
-          "x": 264,
+          "x": 434,
           "y": 563,
           "scale": {
             "x": 1,
@@ -748,7 +762,7 @@
           },
           "type": "TextBox",
           "size": 39,
-          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=取得按鈕，測試監聽器\" target=\"_blank\">使用開發工具 (F12) 測試一下</a></font><br>",
+          "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=取得按鈕，測試監聽器\" target=\"_blank\">測試一下</a></font><br>",
           "selected": false
         }
       ],
@@ -780,14 +794,14 @@
         },
         {
           "TextBox": {},
-          "x": 212,
-          "y": 287,
+          "x": 201,
+          "y": 275,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 64,
+          "size": 63,
           "text": "<ol><li><span style=\"font-family: Lato; line-height: normal;\">複製 template</span><br></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">把輸入的資料放上去</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">貼到網頁上</span></font></li></ol>",
           "selected": false
         }
@@ -798,8 +812,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 17,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 1140,
       "y": 374
     },
@@ -1146,7 +1160,9 @@
       "rotateZ": 0,
       "index": 24,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 410,
+      "y": 562
     },
     {
       "components": [
@@ -1171,7 +1187,9 @@
       "rotateZ": 0,
       "index": 25,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 162,
+      "y": 558
     },
     {
       "components": [
@@ -1218,11 +1236,13 @@
       "z": 0,
       "impScale": 3,
       "rotateX": 0,
-      "rotateY": 0,
+      "rotateY": -1.57,
       "rotateZ": 0,
       "index": 26,
-      "selected": true,
-      "active": true
+      "selected": false,
+      "active": false,
+      "x": 54,
+      "y": 556
     },
     {
       "components": [
@@ -1305,54 +1325,108 @@
         }
       ],
       "z": 0,
-      "impScale": 3,
+      "impScale": 6,
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
       "index": 27,
       "selected": false,
-      "active": false
+      "active": false,
+      "x": 409,
+      "y": 825
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 192,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">然後，我決定出個作業</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/wZUqisd.png",
+          "type": "Image",
+          "x": 412,
+          "y": 246,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 265,
+          "y": 128,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 99,
+          "text": "<span style=\"font-family: Lato;\">點名小工具</span><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 116,
+          "y": 451,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><font face=\"Lato\"><span style=\"line-height: normal;\">輸入、修改點名清單</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">新增事件，然後當然是點名</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">後門(?)</span></font></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 6,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 874,
+      "y": 828
     }
   ],
   "activeSlide": {
     "components": [
       {
         "TextBox": {},
-        "x": 225,
-        "y": 206,
+        "x": 300,
+        "y": 63,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 64,
-        "text": "<font face=\"Lato\">Just as you expected</font>",
+        "size": 85,
+        "text": "<font face=\"Lato\">新增的步驟</font><br>",
         "selected": false
       },
       {
         "TextBox": {},
-        "x": 261,
-        "y": 312,
+        "x": 201,
+        "y": 275,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 121,
-        "text": "<font face=\"Lato\"><a href=\"http://api.jquery.com/remove/\" target=\"_blank\">.remove()</a></font>",
-        "selected": false
-      },
-      {
-        "TextBox": {},
-        "x": 426,
-        "y": 491,
-        "scale": {
-          "x": 1,
-          "y": 1
-        },
-        "type": "TextBox",
-        "size": 32,
-        "text": "<font face=\"Lato\"><a href=\"https://nchuit.hackpad.com/1041023--hkWf2GA8iAY#:h=刪除！\" target=\"_blank\">Maybe XDD</a></font>",
+        "size": 63,
+        "text": "<ol><li><span style=\"font-family: Lato; line-height: normal;\">複製 template</span><br></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">把輸入的資料放上去</span></font></li><li><font face=\"Lato\"><span style=\"line-height: normal;\">貼到網頁上</span></font></li></ol>",
         "selected": false
       }
     ],
@@ -1361,9 +1435,11 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 26,
+    "index": 17,
     "selected": true,
-    "active": true
+    "active": true,
+    "x": 1140,
+    "y": 374
   },
   "fileName": "presentation-unnamed",
   "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/\n\n.strut-surface .code {\n  font-family:Menlo, Monaco, Consolas, 'Courier New', monospace !important;\n}\n",
@@ -1371,6 +1447,6 @@
   "customBackgrounds": {
     "bgs": []
   },
-  "overviewX": 725.5,
-  "overviewY": 298
+  "overviewX": 669.5,
+  "overviewY": 425.5
 }
